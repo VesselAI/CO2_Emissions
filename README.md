@@ -1,4 +1,4 @@
-# CO2_Emissions
+# CO2_Emissions Prediction
 
 ## Description
 This repository contains code related to the experimentation and evaluation of various machine learning models on a specific dataset. The models were tested to analyze their performance and effectiveness in solving a particular task.
